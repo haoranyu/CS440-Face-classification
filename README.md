@@ -8,10 +8,6 @@ Convert each ‘pixel’ like face image into a vector of features. In the train
 
 Training and Testing
 =========================
-Count           Face  !Face
-Predict - Face    70  7
-Predict - !Face   10  63	
-
 With total of 150 examples, total number of correctly classified example: 133 , with correct ratio: 0.88667
 
 Team & Copyright
